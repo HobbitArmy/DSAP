@@ -1,0 +1,17 @@
+
+
+
+file.writeda101
+file.writeda101
+print
+file.write[1, 'a'][2, 'a'][3, 'a']1Noneda101
+print
+file.write
+[1, 'a'][2, 'a'][3, 'a']1da101
+print
+file.write
+[1, 'a'][2, 'a'][3, 'a']1da101
+print
+file.write
+[1, 'a'][2, 'a'][3, 'a']1da101
+print
